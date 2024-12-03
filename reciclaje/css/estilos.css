@@ -140,7 +140,7 @@ footer i{
     border-bottom: solid 3px black;
     justify-items: center;
     background: rgb(113,109,109);
-    background: linear-gradient(180deg, rgba(113,109,109,1) 0%, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 100%);;
+    background: linear-gradient(180deg, rgba(113,109,109,1) 0%, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 100%);
 }
 
 .tele {
@@ -177,33 +177,7 @@ footer i{
     background: linear-gradient(180deg, rgba(113,109,109,1) 0%, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 100%);
 }
 
-.acacc  {
-    border-bottom: solid 3px black;
-    justify-items: center;
-    background: rgb(113,109,109);
-    background: linear-gradient(180deg, rgba(113,109,109,1) 0%, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 100%);;
-}
-
-.acasc {
-    border-bottom: solid 3px black;
-    justify-items: center;
-    background: rgb(113,109,109);
-    background: linear-gradient(180deg, rgba(113,109,109,1) 0%, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 100%);    
-}
-
-.acnsc {
-    border-bottom: solid 3px black;
-    justify-items: center;
-    background: rgb(113,109,109);
-    background: linear-gradient(180deg, rgba(113,109,109,1) 0%, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 100%); 
-}
-
-.acncc {
-    border-bottom: solid 3px black;
-    justify-items: center;
-    background: rgb(113,109,109);
-    background: linear-gradient(180deg, rgba(113,109,109,1) 0%, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 100%);
-}
+ 
 
 .DoceCajaCarbono  {
     border-bottom: solid 3px black;
